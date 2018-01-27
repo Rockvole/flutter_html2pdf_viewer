@@ -44,6 +44,12 @@ class DemoAppState extends State<DemoApp> {
                   }
                       : null,
                 ),
+                new RaisedButton(
+                  child: const Text('HTML PDF View'),
+                  onPressed: () {
+                    pdfview("<h1>Title</h1><table border=1><tr><td>Table</td><td>Test</td></tr></table>");
+                  },
+                ),
               ],
             ),
           )),
