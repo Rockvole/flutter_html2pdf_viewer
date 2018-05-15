@@ -47,7 +47,11 @@ class DemoAppState extends State<DemoApp> {
                 new RaisedButton(
                   child: const Text('HTML PDF View'),
                   onPressed: () {
-                    pdfview("<h1>Title</h1><table border=1><tr><td>Table</td><td>Test</td></tr></table>");
+                    pdfview("""<h1>Title</h1><table border=1><tr><td>Table</td><td>Test</td></tr>
+                    <tr><td>
+                    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Wikipedia-logo-en-big.png/196px-Wikipedia-logo-en-big.png"/>
+                    </td></tr>
+                    </table>""");
                   },
                 ),
               ],
