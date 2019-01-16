@@ -1,8 +1,11 @@
 name: pdfview
 description: A new flutter plugin project.
-version: 0.0.1
-author:
-homepage:
+version: 1.0.0
+author: Rockvole <rockvole@gmail.com>
+homepage: https://github.com/Rockvole/pdfview
+
+environment:
+  sdk: ">=2.0.0-dev.68.0 <3.0.0"
 
 dependencies:
   flutter:
@@ -47,6 +50,3 @@ flutter:
   #
   # For details regarding fonts in packages, see
   # https://flutter.io/custom-fonts/#from-packages
-
-environment:
-  sdk: ">=2.0.0-dev.58.0 <3.0.0"
