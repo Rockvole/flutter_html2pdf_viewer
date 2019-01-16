@@ -1,8 +1,8 @@
-name: pdfview
+name: flutter_html2pdf_viewer
 description: A new flutter plugin project.
 version: 1.0.0
 author: Rockvole <rockvole@gmail.com>
-homepage: https://github.com/Rockvole/pdfview
+homepage: https://github.com/Rockvole/flutter_html2pdf_viewer
 
 environment:
   sdk: ">=2.0.0-dev.68.0 <3.0.0"
@@ -17,7 +17,7 @@ dependencies:
 # The following section is specific to Flutter.
 flutter:
   plugin:
-    androidPackage: com.rockvole.pdfview
+    androidPackage: com.rockvole.flutter_html2pdf_viewer
     pluginClass: PdfviewPlugin
 
   # To add assets to your plugin package, add an assets section, like this:

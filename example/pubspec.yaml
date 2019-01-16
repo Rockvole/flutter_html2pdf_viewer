@@ -1,4 +1,4 @@
-name: pdfview_example
+name: flutter_html2pdf_viewer_example
 description: Demonstrates how to use the pdfview plugin.
 
 # The following defines the version and build number for your application.
@@ -24,7 +24,7 @@ dev_dependencies:
   flutter_test:
     sdk: flutter
 
-  pdfview:
+  flutter_html2pdf_viewer:
     path: ../
 
 # For information on the generic Dart part of this file, see the

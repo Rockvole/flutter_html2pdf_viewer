@@ -1,4 +1,4 @@
-# pdfview
+# flutter_html2pdf_viewer
 
 A new flutter plugin project.
 

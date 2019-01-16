@@ -1,4 +1,4 @@
-# pdfview_example
+# flutter_html2pdf_viewer_example
 
 Demonstrates how to use the pdfview plugin.
 

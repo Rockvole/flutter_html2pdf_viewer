@@ -1,3 +1,3 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-  package="com.rockvole.pdfview">
+  package="com.rockvole.flutter_html2pdf_viewer">
 </manifest>

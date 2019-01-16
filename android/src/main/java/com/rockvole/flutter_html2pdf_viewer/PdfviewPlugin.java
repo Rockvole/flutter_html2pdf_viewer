@@ -1,4 +1,4 @@
-package com.rockvole.pdfview;
+package com.rockvole.flutter_html2pdf_viewer;
 
 import android.content.Context;
 import android.print.PrintAttributes;

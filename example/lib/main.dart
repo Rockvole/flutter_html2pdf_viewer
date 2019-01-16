@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:pdfview/pdfview.dart';
+import 'package:flutter_html2pdf_viewer/flutter_html2pdf_viewer.dart';
 
 void main() {
   runApp(new DemoApp());

@@ -1,4 +1,4 @@
-group 'com.rockvole.pdfview'
+group 'com.rockvole.flutter_html2pdf_viewer'
 version '1.0-SNAPSHOT'
 
 buildscript {
